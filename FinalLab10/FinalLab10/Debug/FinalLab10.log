@@ -1,0 +1,10 @@
+﻿  Main.cpp
+C:\Users\husky\source\repos\FinalLab10\FinalLab10\QS.h(69,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\husky\source\repos\FinalLab10\FinalLab10\QS.h(66): message : while compiling class template member function 'void QS<int>::setSize(size_t)'
+C:\Users\husky\source\repos\FinalLab10\FinalLab10\Main.cpp(32): message : see reference to function template instantiation 'void QS<int>::setSize(size_t)' being compiled
+C:\Users\husky\source\repos\FinalLab10\FinalLab10\Main.cpp(13): message : see reference to class template instantiation 'QS<int>' being compiled
+C:\Users\husky\source\repos\FinalLab10\FinalLab10\QS.h(22,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\husky\source\repos\FinalLab10\FinalLab10\QS.h(20): message : while compiling class template member function 'void QS<int>::reallocate(void)'
+C:\Users\husky\source\repos\FinalLab10\FinalLab10\QS.h(80): message : see reference to function template instantiation 'void QS<int>::reallocate(void)' being compiled
+C:\Users\husky\source\repos\FinalLab10\FinalLab10\QS.h(26,24): warning C4018: '<': signed/unsigned mismatch
+  FinalLab10.vcxproj -> C:\Users\husky\source\repos\FinalLab10\Debug\FinalLab10.exe
